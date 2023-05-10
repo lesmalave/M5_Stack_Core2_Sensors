@@ -1,2 +1,5 @@
 # Ignorar carpeta vscode 
 /.vscode/
+*.json
+*.svd
+*.cfg
